@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Site Plan</title>
+  <link type="text/css" rel="stylesheet" href="styles/site-plan-rafting.css" />
+</head>
+
+<body>
+  
+    <header>
+      <h1>"Dry Oar" White Water Rafting Site Plan</h1>
+      <h2>Brother Anderson</h2>
+      <h2>WDD 130-B4</h2>
+      <!-- In the header above, add the name of your site, your name and class number. For example if you are in section 3 you would put WDD 130-03 -->
+    </header>
+    <main>
+      <!-- ------------------------Steps 2-5------------------------------ -->
+      <hr />
+      <h2>Overview</h2>
+      <h3>Purpose</h3>
+      <p>As the owner of Dry Oar, I would like to build the revenue of my white water rafting tour companies. Currently, customers have to find our information through social media and have to call into our office to make an appointment. The purpose of this website is to increase revenu by making it easier for customers to book their tours online and give us an engaging website we can use as a landing page for marketing efforts.</p>
+      <!-- change this -->
+
+      <h3>Audience</h3>
+      <p>The primary audience for this website is leaders of youth adventure groups. This could include scout troups or church groups looking for high adventure. They are males 30-55 years old. They have stable income and have jobs that allow them to take time off to mentor youth. They are leaders who love the outdoors. They are looking for activities to give their youth adventurous experiences in nature.</p>
+      <!-- change this -->
+
+      <hr />
+      <h2>Branding</h2>
+      <h3>Website Logo</h3>
+      <!-- Replace this with some sort of logo for your site.  A logo can be as simple as the name of your site in a nice font :) -->
+      <img src="https://byui-wdd.github.io/wdd130/rafting_images/dryoarlogo.png" alt="Logo image" />
+      <hr />
+      <h2>Style Guide</h2>
+
+      <!-- ------------------------Steps 6-9------------------------------ -->
+
+      <h3>Color Palette</h3>
+      <!--  The colors you choose for a website are one of the most important decisions you will make. Follow the instructions on the activity in Canvas then return and replace the color codes below with the hex color codes (the 6 digit numbers that show at the bottom of each color) for the colors you have chosen below.  You should have at least 2 colors but do not have to fill in all 4 if you do not need them.  -->
+
+      <!-- Copy and paste the URL to your finished palette below. Replace the href value that is there with yours. Make sure to paste it into both the href value and the content text of the <a> tag -->
+      <p>Palette URL:</p>
+      <a href="https://coolors.co/0b4066-79c6d8-fce273-ffffff-b0b0b0"
+        target="_blank">https://coolors.co/0b4066-79c6d8-fce273-ffffff-b0b0b0</a>
+
+      
+    </main>
+</div>
+</body>
+
+</html>
